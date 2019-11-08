@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85261f9f-7f30-4ab4-bcd1-18715bdfea46" name="Default Changelist" comment="" />
+    <list default="true" id="85261f9f-7f30-4ab4-bcd1-18715bdfea46" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/.ipynb_checkpoints/Automate Weibo Operations-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter3/.ipynb_checkpoints/Automate Weibo Operations-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/Automate Weibo Operations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter3/Automate Weibo Operations.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1S3TSSEUB7L7rAoRqfKefhH97Lf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Git/pydata-book" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -37,5 +45,18 @@
       <updated>1570791279099</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
